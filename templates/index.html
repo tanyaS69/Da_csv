@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Netflix Dashboard</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #141414;
+            color: white;
+        }
+
+        h1 {
+            text-align: center;
+            color: #e50914;
+            padding: 20px;
+        }
+
+        .container {
+            width: 90%;
+            margin: auto;
+        }
+
+        .cards {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            margin-bottom: 30px;
+        }
+
+        .card {
+            background: #1f1f1f;
+            padding: 20px;
+            margin: 10px;
+            border-radius: 12px;
+            width: 200px;
+            text-align: center;
+            box-shadow: 0px 0px 10px black;
+            transition: 0.3s;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .card h2 {
+            margin: 10px 0;
+            color: #e50914;
+        }
+
+        .graphs {
+            text-align: center;
+        }
+
+        .graphs img {
+            width: 80%;
+            margin: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 15px black;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>🎬 Netflix Data Analysis Dashboard</h1>
+
+    <div class="container">
+
+        <!-- Cards Section -->
+        <div class="cards">
+            <div class="card">
+                <h2>Total</h2>
+                <p>{{ total }}</p>
+            </div>
+
+            <div class="card">
+                <h2>Movies</h2>
+                <p>{{ movies }}</p>
+            </div>
+
+            <div class="card">
+                <h2>TV Shows</h2>
+                <p>{{ shows }}</p>
+            </div>
+
+            <div class="card">
+                <h2>Avg Year</h2>
+                <p>{{ avg_year }}</p>
+            </div>
+        </div>
+
+        <!-- Graphs -->
+        <div class="graphs">
+            <h2>📊 Visual Insights</h2>
+
+            <h3>Movies vs TV Shows</h3>
+            <img src="{{ url_for('static', filename='bar.png') }}">
+
+            <h3>Release Year Distribution</h3>
+            <img src="{{ url_for('static', filename='scatter.png') }}">
+
+            <h3>Correlation Heatmap</h3>
+            <img src="{{ url_for('static', filename='heatmap.png') }}">
+        </div>
+
+    </div>
+
+</body>
+</html>

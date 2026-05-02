@@ -1,0 +1,101 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration
+s1,Movie,Title_1,Director_1,Actor_1,Spain,Dec 2014,2014,TV-14,113 min
+s2,Movie,Title_2,Director_2,Actor_2,India,Sep 2000,2000,TV-14,156 min
+s3,Movie,Title_3,Director_3,Actor_3,USA,Jun 2021,2021,PG,107 min
+s4,TV Show,Title_4,Director_4,Actor_4,Germany,Oct 2018,2018,TV-14,6 Seasons
+s5,TV Show,Title_5,Director_5,Actor_5,Germany,Oct 2013,2013,PG-13,1 Seasons
+s6,TV Show,Title_6,Director_6,Actor_6,USA,Mar 2022,2022,TV-14,1 Seasons
+s7,Movie,Title_7,Director_7,Actor_7,UK,Oct 2021,2021,UA,96 min
+s8,TV Show,Title_8,Director_8,Actor_8,Spain,Jun 2013,2013,PG-13,2 Seasons
+s9,TV Show,Title_9,Director_9,Actor_9,India,Jun 2016,2016,UA,5 Seasons
+s10,TV Show,Title_10,Director_10,Actor_10,USA,Oct 2017,2017,UA,2 Seasons
+s11,TV Show,Title_11,Director_11,Actor_11,Spain,Sep 2016,2016,PG,6 Seasons
+s12,Movie,Title_12,Director_12,Actor_12,Canada,May 2004,2004,TV-14,131 min
+s13,Movie,Title_13,Director_13,Actor_13,USA,Sep 2013,2013,TV-14,130 min
+s14,Movie,Title_14,Director_14,Actor_14,Germany,Jun 2008,2008,TV-14,144 min
+s15,TV Show,Title_15,Director_15,Actor_15,Spain,Jul 2001,2001,PG,4 Seasons
+s16,TV Show,Title_16,Director_16,Actor_16,India,Apr 2002,2002,PG-13,2 Seasons
+s17,TV Show,Title_17,Director_17,Actor_17,USA,Mar 2021,2021,TV-MA,3 Seasons
+s18,TV Show,Title_18,Director_18,Actor_18,Canada,Jul 2005,2005,UA,5 Seasons
+s19,Movie,Title_19,Director_19,Actor_19,USA,May 2015,2015,TV-14,96 min
+s20,TV Show,Title_20,Director_20,Actor_20,UK,Aug 2016,2016,TV-14,5 Seasons
+s21,Movie,Title_21,Director_21,Actor_21,India,Aug 2006,2006,TV-MA,116 min
+s22,TV Show,Title_22,Director_22,Actor_22,UK,May 2014,2014,PG,6 Seasons
+s23,Movie,Title_23,Director_23,Actor_23,Germany,Jan 2009,2009,PG-13,117 min
+s24,TV Show,Title_24,Director_24,Actor_24,UK,Mar 2007,2007,PG,2 Seasons
+s25,TV Show,Title_25,Director_25,Actor_25,Germany,Jan 2021,2021,PG,3 Seasons
+s26,Movie,Title_26,Director_26,Actor_26,Spain,Apr 2008,2008,PG,128 min
+s27,TV Show,Title_27,Director_27,Actor_27,Spain,Jun 2000,2000,UA,2 Seasons
+s28,TV Show,Title_28,Director_28,Actor_28,USA,Aug 2005,2005,PG-13,3 Seasons
+s29,TV Show,Title_29,Director_29,Actor_29,Canada,Mar 2001,2001,UA,2 Seasons
+s30,Movie,Title_30,Director_30,Actor_30,Germany,Apr 2007,2007,PG,118 min
+s31,TV Show,Title_31,Director_31,Actor_31,Germany,Dec 2016,2016,PG,1 Seasons
+s32,TV Show,Title_32,Director_32,Actor_32,Germany,Feb 2016,2016,PG-13,4 Seasons
+s33,TV Show,Title_33,Director_33,Actor_33,Canada,Apr 2014,2014,TV-MA,3 Seasons
+s34,Movie,Title_34,Director_34,Actor_34,UK,May 2018,2018,PG,157 min
+s35,Movie,Title_35,Director_35,Actor_35,India,Nov 2006,2006,PG-13,146 min
+s36,TV Show,Title_36,Director_36,Actor_36,India,Aug 2019,2019,TV-MA,4 Seasons
+s37,Movie,Title_37,Director_37,Actor_37,Canada,Jun 2011,2011,TV-MA,180 min
+s38,TV Show,Title_38,Director_38,Actor_38,Canada,Oct 2012,2012,PG,2 Seasons
+s39,TV Show,Title_39,Director_39,Actor_39,UK,Jul 2020,2020,R,4 Seasons
+s40,Movie,Title_40,Director_40,Actor_40,Germany,Apr 2000,2000,R,142 min
+s41,Movie,Title_41,Director_41,Actor_41,Germany,Sep 2001,2001,PG,180 min
+s42,Movie,Title_42,Director_42,Actor_42,UK,Jun 2006,2006,PG-13,157 min
+s43,Movie,Title_43,Director_43,Actor_43,Canada,Dec 2002,2002,R,105 min
+s44,Movie,Title_44,Director_44,Actor_44,UK,Dec 2019,2019,TV-14,180 min
+s45,Movie,Title_45,Director_45,Actor_45,Germany,Jan 2022,2022,TV-MA,118 min
+s46,TV Show,Title_46,Director_46,Actor_46,UK,Feb 2022,2022,PG-13,5 Seasons
+s47,TV Show,Title_47,Director_47,Actor_47,Canada,Aug 2017,2017,TV-14,3 Seasons
+s48,TV Show,Title_48,Director_48,Actor_48,Spain,Jul 2017,2017,TV-MA,5 Seasons
+s49,TV Show,Title_49,Director_49,Actor_49,Spain,Jan 2022,2022,R,6 Seasons
+s50,Movie,Title_50,Director_50,Actor_50,UK,Nov 2009,2009,PG,108 min
+s51,Movie,Title_51,Director_51,Actor_51,UK,Dec 2019,2019,PG,160 min
+s52,TV Show,Title_52,Director_52,Actor_52,Germany,Oct 2015,2015,PG,2 Seasons
+s53,Movie,Title_53,Director_53,Actor_53,UK,Dec 2000,2000,PG-13,135 min
+s54,TV Show,Title_54,Director_54,Actor_54,Spain,Apr 2005,2005,PG,6 Seasons
+s55,Movie,Title_55,Director_55,Actor_55,UK,Dec 2007,2007,TV-MA,154 min
+s56,TV Show,Title_56,Director_56,Actor_56,India,Jun 2006,2006,TV-MA,6 Seasons
+s57,TV Show,Title_57,Director_57,Actor_57,India,Sep 2004,2004,PG,1 Seasons
+s58,Movie,Title_58,Director_58,Actor_58,Canada,Aug 2016,2016,PG,155 min
+s59,TV Show,Title_59,Director_59,Actor_59,Spain,Oct 2010,2010,R,3 Seasons
+s60,Movie,Title_60,Director_60,Actor_60,USA,Oct 2018,2018,TV-MA,97 min
+s61,TV Show,Title_61,Director_61,Actor_61,Canada,Feb 2021,2021,TV-MA,2 Seasons
+s62,TV Show,Title_62,Director_62,Actor_62,India,Jun 2004,2004,PG,4 Seasons
+s63,Movie,Title_63,Director_63,Actor_63,UK,Jul 2022,2022,R,138 min
+s64,TV Show,Title_64,Director_64,Actor_64,UK,Oct 2004,2004,UA,5 Seasons
+s65,Movie,Title_65,Director_65,Actor_65,UK,Dec 2003,2003,UA,120 min
+s66,Movie,Title_66,Director_66,Actor_66,Spain,Mar 2015,2015,UA,100 min
+s67,Movie,Title_67,Director_67,Actor_67,USA,Jun 2018,2018,TV-14,144 min
+s68,TV Show,Title_68,Director_68,Actor_68,Germany,Jul 2010,2010,TV-14,1 Seasons
+s69,Movie,Title_69,Director_69,Actor_69,USA,Nov 2009,2009,UA,99 min
+s70,Movie,Title_70,Director_70,Actor_70,USA,Mar 2008,2008,TV-14,158 min
+s71,Movie,Title_71,Director_71,Actor_71,Canada,May 2013,2013,PG-13,175 min
+s72,Movie,Title_72,Director_72,Actor_72,India,Feb 2003,2003,PG,141 min
+s73,Movie,Title_73,Director_73,Actor_73,UK,Jul 2001,2001,R,93 min
+s74,Movie,Title_74,Director_74,Actor_74,Spain,May 2021,2021,TV-14,123 min
+s75,Movie,Title_75,Director_75,Actor_75,Canada,Oct 2007,2007,TV-MA,100 min
+s76,TV Show,Title_76,Director_76,Actor_76,Germany,Jan 2005,2005,PG,4 Seasons
+s77,TV Show,Title_77,Director_77,Actor_77,Germany,Apr 2004,2004,PG-13,5 Seasons
+s78,Movie,Title_78,Director_78,Actor_78,Spain,Oct 2022,2022,UA,98 min
+s79,Movie,Title_79,Director_79,Actor_79,India,Sep 2004,2004,TV-14,142 min
+s80,Movie,Title_80,Director_80,Actor_80,Spain,Sep 2011,2011,UA,176 min
+s81,Movie,Title_81,Director_81,Actor_81,UK,Jun 2019,2019,TV-MA,180 min
+s82,Movie,Title_82,Director_82,Actor_82,UK,Mar 2006,2006,PG-13,99 min
+s83,Movie,Title_83,Director_83,Actor_83,Canada,Jun 2007,2007,TV-14,103 min
+s84,Movie,Title_84,Director_84,Actor_84,Spain,Jul 2004,2004,TV-MA,170 min
+s85,TV Show,Title_85,Director_85,Actor_85,UK,Sep 2007,2007,R,6 Seasons
+s86,Movie,Title_86,Director_86,Actor_86,USA,Aug 2018,2018,R,146 min
+s87,Movie,Title_87,Director_87,Actor_87,UK,Mar 2020,2020,PG-13,146 min
+s88,Movie,Title_88,Director_88,Actor_88,USA,Apr 2009,2009,TV-14,97 min
+s89,Movie,Title_89,Director_89,Actor_89,Germany,Apr 2022,2022,TV-MA,91 min
+s90,TV Show,Title_90,Director_90,Actor_90,India,Mar 2009,2009,PG,5 Seasons
+s91,Movie,Title_91,Director_91,Actor_91,UK,Feb 2019,2019,TV-14,135 min
+s92,Movie,Title_92,Director_92,Actor_92,Germany,Oct 2006,2006,PG-13,167 min
+s93,TV Show,Title_93,Director_93,Actor_93,Canada,Nov 2021,2021,UA,4 Seasons
+s94,TV Show,Title_94,Director_94,Actor_94,Spain,Jun 2018,2018,R,5 Seasons
+s95,TV Show,Title_95,Director_95,Actor_95,UK,Jul 2008,2008,PG-13,4 Seasons
+s96,TV Show,Title_96,Director_96,Actor_96,India,Jul 2004,2004,UA,6 Seasons
+s97,TV Show,Title_97,Director_97,Actor_97,Canada,Jun 2007,2007,UA,2 Seasons
+s98,Movie,Title_98,Director_98,Actor_98,Germany,Feb 2001,2001,PG,141 min
+s99,Movie,Title_99,Director_99,Actor_99,USA,Sep 2014,2014,UA,173 min
+s100,TV Show,Title_100,Director_100,Actor_100,UK,Aug 2004,2004,PG-13,5 Seasons
