@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Netflix Dashboard</title>
+    <title>Netflix Real-Time Dashboard</title>
+
+    <!-- Auto refresh every 5 seconds -->
+    <meta http-equiv="refresh" content="5">
 
     <style>
         body {
@@ -26,7 +29,6 @@
             display: flex;
             justify-content: space-around;
             flex-wrap: wrap;
-            margin-bottom: 30px;
         }
 
         .card {
@@ -36,17 +38,6 @@
             border-radius: 12px;
             width: 200px;
             text-align: center;
-            box-shadow: 0px 0px 10px black;
-            transition: 0.3s;
-        }
-
-        .card:hover {
-            transform: scale(1.05);
-        }
-
-        .card h2 {
-            margin: 10px 0;
-            color: #e50914;
         }
 
         .graphs {
@@ -57,18 +48,17 @@
             width: 80%;
             margin: 20px;
             border-radius: 10px;
-            box-shadow: 0px 0px 15px black;
         }
     </style>
 </head>
 
 <body>
 
-    <h1>🎬 Netflix Data Analysis Dashboard</h1>
+    <h1>🎬 Netflix Real-Time Dashboard</h1>
 
     <div class="container">
 
-        <!-- Cards Section -->
+        <!-- Cards -->
         <div class="cards">
             <div class="card">
                 <h2>Total</h2>
@@ -93,7 +83,7 @@
 
         <!-- Graphs -->
         <div class="graphs">
-            <h2>📊 Visual Insights</h2>
+            <h2>📊 Live Visualizations (updates every 5 seconds)</h2>
 
             <h3>Movies vs TV Shows</h3>
             <img src="{{ url_for('static', filename='bar.png') }}">
@@ -101,7 +91,7 @@
             <h3>Release Year Distribution</h3>
             <img src="{{ url_for('static', filename='scatter.png') }}">
 
-            <h3>Correlation Heatmap</h3>
+            <h3>Heatmap</h3>
             <img src="{{ url_for('static', filename='heatmap.png') }}">
         </div>
 
